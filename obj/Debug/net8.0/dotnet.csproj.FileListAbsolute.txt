@@ -1,0 +1,15 @@
+/Users/regcyb/Desktop/Work_Study/Intern/dotnet/bin/Debug/net8.0/dotnet
+/Users/regcyb/Desktop/Work_Study/Intern/dotnet/bin/Debug/net8.0/dotnet.deps.json
+/Users/regcyb/Desktop/Work_Study/Intern/dotnet/bin/Debug/net8.0/dotnet.runtimeconfig.json
+/Users/regcyb/Desktop/Work_Study/Intern/dotnet/bin/Debug/net8.0/dotnet.dll
+/Users/regcyb/Desktop/Work_Study/Intern/dotnet/bin/Debug/net8.0/dotnet.pdb
+/Users/regcyb/Desktop/Work_Study/Intern/dotnet/obj/Debug/net8.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/regcyb/Desktop/Work_Study/Intern/dotnet/obj/Debug/net8.0/dotnet.AssemblyInfoInputs.cache
+/Users/regcyb/Desktop/Work_Study/Intern/dotnet/obj/Debug/net8.0/dotnet.AssemblyInfo.cs
+/Users/regcyb/Desktop/Work_Study/Intern/dotnet/obj/Debug/net8.0/dotnet.csproj.CoreCompileInputs.cache
+/Users/regcyb/Desktop/Work_Study/Intern/dotnet/obj/Debug/net8.0/dotnet.sourcelink.json
+/Users/regcyb/Desktop/Work_Study/Intern/dotnet/obj/Debug/net8.0/dotnet.dll
+/Users/regcyb/Desktop/Work_Study/Intern/dotnet/obj/Debug/net8.0/refint/dotnet.dll
+/Users/regcyb/Desktop/Work_Study/Intern/dotnet/obj/Debug/net8.0/dotnet.pdb
+/Users/regcyb/Desktop/Work_Study/Intern/dotnet/obj/Debug/net8.0/dotnet.genruntimeconfig.cache
+/Users/regcyb/Desktop/Work_Study/Intern/dotnet/obj/Debug/net8.0/ref/dotnet.dll
