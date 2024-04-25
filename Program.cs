@@ -14,17 +14,25 @@
 // Console.WriteLine($"Sec Random={roll1}");
 // Console.WriteLine($"Th Random={roll2}");
 
-Random dice =new Random();
-int roll1=dice.Next(1,6);
-int roll2=dice.Next(1,6);
-int roll3=dice.Next(1,6);
+// Random dice =new Random();
+// int roll1=dice.Next(1,6);
+// int roll2=dice.Next(1,6);
+// int roll3=dice.Next(1,6);
 
-int total=roll1+roll2+roll3;
+// int total=roll1+roll2+roll3;
 
-if (total>9){
-    Console.WriteLine("you Win");
+// if (total>9){
+//     Console.WriteLine("you Win");
 
-}
-if (total<8){
-    Console.WriteLine("you lose");
+// }
+// if (total<8){
+//     Console.WriteLine("you lose");
+// }
+
+
+string msg="I am From Nepal";
+bool result=msg.Contains("Nepal");
+Console.WriteLine(result);
+if(msg.Contains("Nepal")){
+    Console.WriteLine("Where you from");
 }
