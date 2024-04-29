@@ -1,4 +1,4 @@
-﻿// Random dice= new Random();
+// Random dice= new Random();
 // int roll=dice.Next(1,7);
 // Console.WriteLine(roll);
 
@@ -52,12 +52,5 @@
 //     Console.WriteLine("You lose");
 //}
 
-int[] inventory = { 200, 450, 700, 175, 250 };
-int sum=0;
-int bin=0;
-foreach(int value in inventory){
-    sum+= value;
-    bin++;
-    Console.WriteLine($"Bin {bin} = {value} items (Running total: {sum})");
-}
-Console.Write($"The Inventory Sum is {sum}\n");
+// foreach(string UTF in UTFs){
+
